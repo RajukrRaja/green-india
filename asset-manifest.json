@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/green-india/static/css/main.27661ffe.css",
+    "main.js": "/green-india/static/js/main.685211e8.js",
+    "static/js/453.11c4d7f8.chunk.js": "/green-india/static/js/453.11c4d7f8.chunk.js",
+    "index.html": "/green-india/index.html",
+    "main.27661ffe.css.map": "/green-india/static/css/main.27661ffe.css.map",
+    "main.685211e8.js.map": "/green-india/static/js/main.685211e8.js.map",
+    "453.11c4d7f8.chunk.js.map": "/green-india/static/js/453.11c4d7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27661ffe.css",
+    "static/js/main.685211e8.js"
+  ]
+}
